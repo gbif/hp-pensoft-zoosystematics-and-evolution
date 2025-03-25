@@ -19,14 +19,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Biodiversity Data Journal Hosted Portal 
-email: bdj@pensoft.net
-description: Biodiversity Data Journal Hosted Portal
+title: Zoosystematics and Evolution Hosted Portal 
+email: zse@pensoft.net
+description: Zoosystematics and Evolution Hosted Portal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://data.bdj.pensoft.net/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BioDataJournal # if you have an account you want to link to. Else comment this line out
-bluesky_username: bdj.pensoft.net
-facebook_username: BioDataJournal
+url: "https://data.zse.pensoft.net/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Zoosyst_Evo # if you have an account you want to link to. Else comment this line out
+#bluesky_username: zse.pensoft.net
+facebook_username: ZoosystEvo
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
 # Build settings
@@ -40,13 +40,13 @@ remote_theme: gbif/jekyll-hp-base-theme
 algae:
   rootLang: en
   # latestPostLimit: 2
-  logo: /assets/images/placeholders/logo.jpg  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/placeholders/logo.png  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#175c36"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: "#730F10"          # Primary color of your brand. Use HEX code. Used for buttons and links
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR

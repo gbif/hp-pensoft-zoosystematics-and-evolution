@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Zoosystematics and Evolution
+description: Browse data on GBIF associated with publications in Zoosystematics and Evolution
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Köhler J, Glaw F, Aguilar-Puntriano C, Castroviejo-Fisher S, Chaparro JC, De la Riva I, Gagliardi-Urrutia G, Gutiérrez R, Vences M, Padial JM (2024) Similar looking sisters: A new sibling species in the _Pristimantis danae_ group from the southwestern Amazon basin (Anura, Strabomantidae). Zoosystematics and Evolution 100(2): 565-582. [https://doi.org/10.3897/zse.100.119143](https://doi.org/10.3897/zse.100.119143)"
 height: 75vh
 cta:
   - text: Datasets
